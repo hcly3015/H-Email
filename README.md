@@ -1,4 +1,4 @@
-# lingqi_email
+# h_email
 
 > A Vue.js project
 
